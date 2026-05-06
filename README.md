@@ -1,6 +1,6 @@
 # Billing Microservice (Subscription Management System)
 
-## 📌 Resumo para LinkedIn
+## 📌 Resumo
 
 > **O que o sistema faz:** 
 > Desenvolvi um microserviço robusto focado na automatização de faturamento para milhares de empresas, lidando com grandes volumes de dados. A aplicação consome uma API externa para sincronizar o status e a quantidade de funcionários de cada corporação e calcula/gera a cobrança mensal (billing) de forma altamente tolerante a falhas, distribuída e assíncrona.
